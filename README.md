@@ -206,6 +206,9 @@ Usage Instructions
 
 ![alt-text](dsc-phase-1-project-v3-master/image-2.png)
 
+# Link to tableau
+https://public.tableau.com/app/profile/jeffrey.gathigi/viz/project1presentation/Dashboard1?publish=yes
+
 
 # Value Proposition
 This analysis provides evidence-based insights to support multi-million dollar aircraft acquisition decisions, potentially saving significant costs through improved safety outcomes and reduced liability exposure.
