@@ -206,9 +206,13 @@ Usage Instructions
 
 ![alt-text](dsc-phase-1-project-v3-master/image-2.png)
 
+
+
 # Link to tableau 
 
 https://public.tableau.com/app/profile/jeffrey.gathigi/viz/project1presentation/Dashboard1?publish=yes
+
+
 
 
 # Value Proposition
