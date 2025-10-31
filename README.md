@@ -200,8 +200,8 @@ Usage Instructions
 
 # Visualizations:
 ![alt text](image.png)
+![alt text](dsc-phase-1-project-v3-master/image.png)
 ![alt text](https://github.com/[GATHIGIMUREITHI]/[dsc-phase-1-project-v3-master]/blob/[main]/image.png?raw=true)
-![alt text](image-1.png)
 ![alt text](https://github.com/[GATHIGIMUREITHI]/[dsc-phase-1-project-v3-master]/blob/[main]/image-1.png?raw=true)
 ![alt text](image-2.png)
 ![alt text](https://github.com/[GATHIGIMUREITHI]/[dsc-phase-1-project-v3-master]/blob/[main]/image-2.png?raw=true)
