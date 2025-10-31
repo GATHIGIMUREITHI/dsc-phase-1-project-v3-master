@@ -199,12 +199,13 @@ Usage Instructions
 # Customization: Modify analysis parameters as needed for specific acquisition scenarios
 
 # Visualizations:
-![alt text](image.png)
+
 ![alt text](dsc-phase-1-project-v3-master/image.png)
-![alt text](https://github.com/[GATHIGIMUREITHI]/[dsc-phase-1-project-v3-master]/blob/[main]/image.png?raw=true)
-![alt text](https://github.com/[GATHIGIMUREITHI]/[dsc-phase-1-project-v3-master]/blob/[main]/image-1.png?raw=true)
-![alt text](image-2.png)
-![alt text](https://github.com/[GATHIGIMUREITHI]/[dsc-phase-1-project-v3-master]/blob/[main]/image-2.png?raw=true)
+
+![alt-text](dsc-phase-1-project-v3-master/image-1.png)
+
+![alt-text](dsc-phase-1-project-v3-master/image-2.png)
+
 
 # Value Proposition
 This analysis provides evidence-based insights to support multi-million dollar aircraft acquisition decisions, potentially saving significant costs through improved safety outcomes and reduced liability exposure.
